@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milad-Mirnajafi
-- 👀 I’m interested in Data Scince & machine learninh
-- 🌱 I’m currently learning Operations Research
+- 👀 I’m interested in Operations Research & machine learninh
+- 🌱 I’m currently learning Data-Driven and distributionally Robust Optimization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
